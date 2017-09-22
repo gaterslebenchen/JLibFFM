@@ -16,7 +16,6 @@ Please go to the project folder and run the command
 "mvn clean package", then we will get a archive file in the sub folder "target", it is "JLibFFM.jar".
 
 You can find a description of supported data format at [here](https://github.com/guestwalk/libffm)("Data Format" section).
-Txt2Csv->Count->PrepareData->Format->SplitData
 
 (1) an example:
 
